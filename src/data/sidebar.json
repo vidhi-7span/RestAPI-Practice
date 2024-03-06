@@ -1,0 +1,14 @@
+[
+  { "to": "/dashboard", "label": "Dashboard", "icon": "MdiHome" },
+  { "to": "/profile", "label": "Profile", "icon": "MdiProfile" },
+  {
+    "icon": "MdiSquare",
+    "label": "More Options",
+    "options": [
+      { "to": "/profile-page", "label": "Profile", "icon": "MdiFacebook" },
+      { "to": "/about", "label": "About", "icon": "MdiBell" },
+      { "to": "/contact", "label": "contact", "icon": "MdiSquare" },
+      { "to": "/home", "label": "Home", "icon": "MdiHome" }
+    ]
+  }
+]
